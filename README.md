@@ -1,2 +1,3 @@
-# AgainJavascript
-I just want to learn more and develop new web pages.
+# ScientificCalculator
+Completed scientificCalulator using c# in dotnet. 
+For this operations i'm used mysql databsase which is good as usual.
